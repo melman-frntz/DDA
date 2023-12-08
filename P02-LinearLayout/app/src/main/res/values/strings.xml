@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">LinearLayout</string>
+    <string name="to_greet">To Greet</string>
+    <string name="your_name">Your name:</string>
+    <string name="write_here">Write here.</string>
+    <string name="you_should_write_your_name">You should write your name.</string>
+    <string name="welcome_message">Hi %s ! welcome to DDA course</string>
+</resources>

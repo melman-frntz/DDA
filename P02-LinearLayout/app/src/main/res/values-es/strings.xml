@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="to_greet">Saludar</string>
+    <string name="your_name">Tu nombre:</string>
+    <string name="write_here">Escribe aquí.</string>
+    <string name="you_should_write_your_name">Debes escribir tu nombre.</string>
+    <string name="welcome_message">Hola %s ! Bienvenido al curso DDA</string>
+</resources>

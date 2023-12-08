@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DataBinding_ExplicitIntents</string>
+    <string name="add_height">Add height:</string>
+    <string name="write_height_cm">Write height cm.</string>
+    <string name="add_weight">Add weight:</string>
+    <string name="write_weight_kg">Write weight kg.</string>
+    <string name="calc_imc">Calc IMC</string>
+    <string name="error_message">The result could not be obtained.</string>
+    <string name="result_message">Your IMC is %f</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="less_than_18_5">Less than 18.5</string>
+    <string name="under_weight">Under weight</string>
+    <string name="between18_5_and_24_9">Between 18.5 and 24.9</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="between25_and_29_9">Between 25 and 29.9</string>
+    <string name="overweight">Overweight</string>
+    <string name="between30_and_34_9">Between 30 and 34.9</string>
+    <string name="class1_obesity">Class1 obesity</string>
+    <string name="between35_and_39_9">Between 35 and 39.9</string>
+    <string name="class2_obesity">Class2 obesity</string>
+    <string name="more_than_40">More than 40</string>
+    <string name="class3_obesity">Class3 obessity</string>
+</resources>
